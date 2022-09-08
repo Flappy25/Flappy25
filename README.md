@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Flappy25
-- 👀 I’m interested in Game disigne
+- 👀 I’m interested in Game design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a python module
 - 📫 reach me giokleung@gmail.com
