@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flappy25
-- 👀 I’m interested in Game design
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Game design/filmmaking
+- 🌱 I’m currently learning Java
 - 📫 reach me giokleung@gmail.com
 
 <!---
