@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flappy25
 - 👀 I’m interested in Game design/filmmaking
 - 🌱 I’m currently learning Java
-- 📫 reach me giokleung@gmail.com
+- 📫 Reach me giokleung@gmail.com
 
 <!---
 Flappy25/Flappy25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
